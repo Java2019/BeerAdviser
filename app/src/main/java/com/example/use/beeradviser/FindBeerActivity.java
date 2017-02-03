@@ -27,5 +27,6 @@ public class FindBeerActivity extends Activity {
             brandsFormatted.append(brand).append('\n');
         }
         brands.setText(brandsFormatted);
+        /* test comment*/
     }
 }
